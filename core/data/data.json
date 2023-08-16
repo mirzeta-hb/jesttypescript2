@@ -1,0 +1,48 @@
+{
+    "credentials": {
+        "email": "testsyve@gmail.com",
+        "password": "Syve1234"
+    },
+    "url": {
+        "home_page": "http://www.automationpractice.pl/index.php",
+        "dresses_page": "http://www.automationpractice.pl/index.php?id_category=8&controller=category",
+        "contact_page": "http://www.automationpractice.pl/index.php?controller=contact",
+        "sort_url": "orderway=asc"
+    },
+    "titles": {
+        "home_page": "My Shop",
+        "login": "My account - My Shop",
+        "dresses": "Dresses - My Shop",
+        "contact_page" : "CUSTOMER SERVICE - CONTACT US"
+    },
+    "new_account_checker": {
+        "firstName": "Test",
+        "lastName": "Person",
+        "password": "Syve1234",
+        "day": "15",
+        "month": "May",
+        "year": "1991", 
+        "address": "Zenica2, South Dakota",
+        "zip": "65432",
+        "city": "Sarajevo",
+        "country": "United States",
+        "phone": "0600012345",
+        "phone_mobile": "0600012345"
+    },
+    "order": {
+        "comment": "Nothing to add!",
+        "reference" : "111",
+        "message" : "Just a feedback : It's a pleasant experience using your page. If only you could resolve the bugs and errors showing and enable the option to checkout, it would be great and you would probably attract a lot more customers. Besides that, good work!",
+        "confirmation" : "Your message has been successfully sent to our team."
+    },
+    "headers":{
+        "sort": "Sort by",
+        "view": "View",
+        "tshirts": "T-SHIRTS",
+        "women": "WOMEN",
+        "comparison": "PRODUCT COMPARISON"
+    },
+    "product_options":{
+        "dress": "Printed Chiffon Dress"
+    }
+}
